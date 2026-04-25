@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shreya Ranjitha  
 
-I’m an **Electronics and Computer Science undergraduate** interested in **RTL design, digital verification, FPGA systems, and semiconductor technologies**. I enjoy working close to the hardware layer — writing **SystemVerilog, building datapaths and control logic, and validating designs through simulation and waveform analysis**.
+I’m an **Electronics and Computer Science undergraduate** interested in **RTL design, digital verification, FPGA systems, and semiconductor technologies**. I enjoy working close to the hardware layer, writing **SystemVerilog, building datapaths and control logic, and validating designs through simulation and waveform analysis**.
 
 I currently work as a **Samsung PRISM Intern** and have research experience from **IIT Hyderabad (IASc–INSA–NASI SRFP)**, where I worked on embedded systems, digital design, and FPGA-based platforms.
 
