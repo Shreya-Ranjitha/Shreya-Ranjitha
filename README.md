@@ -1,57 +1,99 @@
-# 👋 Hi, I’m Shreya Ranjitha  
+# 👋 Hi, I’m Shreya Ranjitha
 
-I’m an **Electronics and Computer Science undergraduate** interested in **RTL design, digital verification, FPGA systems, and semiconductor technologies**. I enjoy working close to the hardware layer, writing **SystemVerilog, building datapaths and control logic, and validating designs through simulation and waveform analysis**.
+🎓 Electronics and Computer Science Undergraduate  
+💻 Samsung PRISM Intern  
+🔬 SRFP Research Intern @ IIT Hyderabad  
 
-I currently work as a **Samsung PRISM Intern** and have research experience from **IIT Hyderabad (IASc–INSA–NASI SRFP)**, where I worked on embedded systems, digital design, and FPGA-based platforms.
+I’m interested in **RTL design, digital verification, FPGA systems, and semiconductor technologies**.  
+I enjoy building systems from the ground up — from datapath design and SystemVerilog RTL to embedded firmware and real-world prototypes.
 
 ---
 
 ## 🧠 What I Work On
-- RTL design & verification (Verilog / SystemVerilog)
-- FPGA-based prototyping & simulation
-- Digital logic, computer architecture & RISC-V
-- Embedded systems & low-level firmware
+
+- RTL Design & Verification (Verilog / SystemVerilog)
+- FPGA Prototyping & Simulation
+- Digital Logic & Computer Architecture
+- Embedded Systems & Low-Level Firmware
 
 ---
 
-## 🛠️ Projects
-🔹 **Neural Network Hardware Accelerator (RISC-V + FPGA)**  
-Lightweight NN inference core integrated with a RISC-V processor. Implemented MAC units, memory datapaths, and control logic in SystemVerilog, verified using testbenches and waveform analysis.
+## 🛠️ RTL & Hardware Projects
 
-🔹 **Neural Network in Verilog (MNIST Classification)**  
-Feedforward neural network implemented fully in Verilog with modular design and FPGA-level simulation.
+### 🔹 Fibonacci TRNG (True Random Number Generator)
+- Hardware-based TRNG using oscillator/jitter principles  
+- Implemented entropy extraction logic in RTL  
+- Focused on randomness quality and hardware efficiency  
 
-🔹 **FinFET Device Design & Simulation**  
-Designed and analyzed FinFET structures using Synopsys and Cadence tools, focusing on leakage, drive current, and scaling behavior.
+---
 
-🔹 **Hand Gesture Recognition Glove (8051 MCU)**  
-Embedded wearable system with sensor interfacing, ADC sampling, and UART communication.
+### 🔹 OFDM System (Tiny Tapeout)
+- Designed OFDM communication blocks in Verilog  
+- Targeted ASIC flow via Tiny Tapeout  
+- Focus on modular DSP blocks and hardware optimization  
+
+---
+
+### 🔹 Neural Network Hardware Core
+- Implemented NN inference core in SystemVerilog  
+- Designed MAC units, datapaths, and control logic  
+- Verified using testbenches and waveform analysis  
+
+---
+
+### 🔹 Neural Network for Handwritten Digit Recognition
+- Feedforward neural network in Verilog (MNIST)  
+- Modular and scalable architecture  
+- Simulated for FPGA deployment  
+
+---
+
+## 🔧 Embedded Systems Projects
+
+### 🔹 Smart Manhole-Based Decision Support System
+- Designed for urban flood drainage management  
+- Water-level monitoring with real-time alerts  
+- Enables smarter infrastructure decision-making  
+
+---
+
+### 🔹 Drift Detection & Compensation System
+- Sensor drift detection and correction  
+- Improved long-term measurement accuracy  
+- Applicable to IMU and environmental sensing systems  
+
+---
+
+### 🔹 Hand Gesture Recognition Glove (8051)
+- Wearable system using flex sensors  
+- ADC interfacing and UART communication  
+- Real-time gesture recognition output  
 
 ---
 
 ## 🧩 Tools & Technologies
-**Languages:** C, Python, Verilog, SystemVerilog  
-**Tools:** Vivado, ModelSim, Intel Quartus, Cadence Virtuoso, Synopsys SWE/SWB, Git
+
+**Languages:**  
+C, Python, Verilog, SystemVerilog  
+
+**Tools:**  
+Vivado, ModelSim, Intel Quartus, Cadence Virtuoso, Synopsys, Git  
 
 ---
 
-## 🚀 Looking For
-Opportunities in **RTL design, digital verification, FPGA systems, and semiconductor research**.  
-Open to collaboration and technical discussions.
+## 🚀 Experience
 
+- **Samsung PRISM Intern** – Hardware/System Design  
+- **IIT Hyderabad (SRFP)** – Embedded Systems, FPGA, Digital Design  
 
+---
 
-<!--
-**Shreya-Ranjitha/Shreya-Ranjitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Looking For
 
-Here are some ideas to get you started:
+- RTL Design / Digital Verification Roles  
+- FPGA & Semiconductor Opportunities  
+- Research & Collaboration in Hardware Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ *Open to collaborations, projects, and discussions in hardware design and embedded systems.*
