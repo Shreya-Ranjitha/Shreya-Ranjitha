@@ -5,7 +5,7 @@
 🔬 SRFP Research Intern @ IIT Hyderabad  
 
 I’m interested in **RTL design, digital verification, FPGA systems, and semiconductor technologies**.  
-I enjoy building systems from the ground up — from datapath design and SystemVerilog RTL to embedded firmware and real-world prototypes.
+I enjoy building systems from the ground up, from datapath design and SystemVerilog RTL to embedded firmware and real-world prototypes.
 
 ---
 
