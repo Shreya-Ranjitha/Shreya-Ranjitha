@@ -83,7 +83,7 @@ Vivado, ModelSim, Intel Quartus, Cadence Virtuoso, Synopsys, Git
 
 ## 🚀 Experience
 
-- **Samsung PRISM Intern** – Hardware/System Design  
+- **Samsung PRISM Intern** – AI Development
 - **IIT Hyderabad (SRFP)** – Embedded Systems, FPGA, Digital Design  
 
 ---
